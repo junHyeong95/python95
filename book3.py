@@ -120,4 +120,5 @@ def main():
             sw = False
 
 main() #로그인 불러오기
-#git text
+#git test
+#신입테스트
