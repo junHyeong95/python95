@@ -18,6 +18,8 @@ def bookReturn():
     print(choice['제목'], "|제고: ",choice['제고'], "|")
     for i in books:
         print(i)#리스트 줄바꿈하여 출력
+    time.sleep(1)
+    print("반납완료되었습니다.")
     time.sleep(2)
 
 bookReturn()
